@@ -10,6 +10,7 @@
 - Adicionar rodape com redes sociais reais.
 - Adicionar SEO basico e favicon placeholder.
 - Integrar logo e favicon oficiais em `img/`.
+- Ajustar logo centralizada no hero e logo compacta no rodape.
 - Criar documentacao de sprint e versionamento local.
 
 ### Proximos itens
