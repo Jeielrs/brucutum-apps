@@ -75,6 +75,14 @@ a {
   width: min(900px, 100%);
 }
 
+.brand-logo {
+  display: block;
+  width: clamp(104px, 18vw, 172px);
+  height: auto;
+  margin-bottom: 28px;
+  filter: drop-shadow(0 0 30px rgba(255, 106, 0, 0.2));
+}
+
 .eyebrow {
   margin: 0 0 18px;
   color: var(--orange-hot);
@@ -343,6 +351,11 @@ h1 {
   .hero {
     min-height: 94vh;
     padding: 88px 0 64px;
+  }
+
+  .brand-logo {
+    width: clamp(92px, 32vw, 132px);
+    margin-bottom: 24px;
   }
 
   h1 {

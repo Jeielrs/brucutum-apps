@@ -7,10 +7,11 @@ A landing page BRUCUTUM APPS foi planejada para funcionar como portal premium do
 - Escopo pequeno permitiu entrega completa em sprint unica.
 - Uso de HTML, CSS e JavaScript puro manteve a pagina leve e facil de hospedar.
 - O canvas animado entrega identidade tecnologica sem depender de imagens estaticas.
+- A identidade visual ganhou mais consistencia com o uso do logo e favicon oficiais.
 
 ## Riscos e pontos de atencao
 - A pagina ainda depende de validacao visual manual em navegadores reais.
-- O favicon e a identidade grafica podem evoluir quando houver marca final.
+- A aplicacao ainda pode precisar de versoes otimizadas dos assets para deploy em producao.
 - O push para GitHub depende da URL do repositorio remoto.
 
 ## Melhorias futuras

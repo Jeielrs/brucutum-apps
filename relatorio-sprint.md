@@ -19,7 +19,7 @@ Criar a landing page principal da Brucutum Apps para centralizar o acesso aos si
 - Fundo animado em canvas com particulas conectadas e fluxos de dados.
 - Secao de aplicativos com card do SGCRHE.
 - Rodape com links para GitHub, LinkedIn e Instagram.
-- SEO basico e favicon placeholder.
+- SEO basico, favicon oficial e logo no hero.
 - Responsividade para desktop e mobile.
 
 ## Validacao planejada
