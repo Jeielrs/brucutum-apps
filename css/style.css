@@ -58,6 +58,41 @@ a {
   opacity: 0.86;
 }
 
+.whatsapp-link {
+  position: fixed;
+  top: 24px;
+  right: 24px;
+  z-index: 10;
+  display: inline-flex;
+  min-height: 46px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  border: 1px solid rgba(255, 106, 0, 0.34);
+  border-radius: 999px;
+  padding: 0 16px;
+  color: var(--text);
+  background: rgba(8, 8, 10, 0.72);
+  box-shadow: 0 16px 44px rgba(0, 0, 0, 0.28), 0 0 24px rgba(255, 106, 0, 0.12);
+  backdrop-filter: blur(18px);
+  font-size: 0.9rem;
+  font-weight: 750;
+  transition: transform 180ms ease, border-color 180ms ease, background 180ms ease, box-shadow 180ms ease;
+}
+
+.whatsapp-link:hover {
+  border-color: rgba(255, 138, 31, 0.75);
+  background: rgba(255, 106, 0, 0.14);
+  box-shadow: 0 18px 52px rgba(0, 0, 0, 0.36), 0 0 30px rgba(255, 106, 0, 0.18);
+  transform: translateY(-2px);
+}
+
+.whatsapp-link svg {
+  width: 19px;
+  height: 19px;
+  fill: var(--orange-hot);
+}
+
 .page-shell {
   position: relative;
   width: min(1120px, calc(100% - 40px));
@@ -365,7 +400,15 @@ h1 {
 
   .hero {
     min-height: 94vh;
-    padding: 88px 0 64px;
+    padding: 104px 0 64px;
+  }
+
+  .whatsapp-link {
+    top: 14px;
+    right: 14px;
+    min-height: 42px;
+    padding: 0 13px;
+    font-size: 0.82rem;
   }
 
   .brand-logo {

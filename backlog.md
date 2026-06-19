@@ -8,9 +8,10 @@
 - Implementar background animado em canvas com rede de particulas.
 - Criar card do sistema SGCRHE com funcionalidades e link externo.
 - Adicionar rodape com redes sociais reais.
-- Adicionar SEO basico e favicon placeholder.
+- Adicionar SEO basico e favicon oficial.
 - Integrar logo e favicon oficiais em `img/`.
 - Ajustar logo centralizada no hero e logo compacta no rodape.
+- Adicionar link de WhatsApp no topo da landing.
 - Criar documentacao de sprint e versionamento local.
 
 ### Proximos itens

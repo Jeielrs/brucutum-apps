@@ -21,6 +21,7 @@ Criar a landing page principal da Brucutum Apps para centralizar o acesso aos si
 - Rodape com links para GitHub, LinkedIn e Instagram.
 - SEO basico, favicon oficial e logo no hero.
 - Refinamento de marca com logo centralizada no hero e logo no lado esquerdo do rodape.
+- Link de contato via WhatsApp fixado no topo da pagina.
 - Responsividade para desktop e mobile.
 
 ## Validacao planejada
