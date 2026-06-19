@@ -4,8 +4,8 @@
 
 # BRUCUTUM APPS
 
-BRUCUTUM APPS e o portal principal dos sistemas desenvolvidos pela Brucutum.
+BRUCUTUM APPS é o portal principal dos sistemas desenvolvidos pela Brucutum.
 
-A landing page serve como ponto central de acesso para aplicacoes digitais criadas para simplificar operacoes, organizar processos e apoiar rotinas de gestao com tecnologia, automacao e engenharia de software.
+A landing page serve como ponto central de acesso para aplicações digitais criadas para simplificar operações, organizar processos e apoiar rotinas de gestão com tecnologia, automação e engenharia de software.
 
-No momento, o portal destaca o **SGCRHE**, sistema de gestao para Central de Reproducao e Hospedagem Equina.
+No momento, o portal destaca o **SGCRHE**, sistema de gestão para Central de Reprodução e Hospedagem Equina.
